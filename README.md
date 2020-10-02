@@ -21,8 +21,8 @@ Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/)
 `$pip install -U Flask`
 
 ### Create a Virtual Enviornment 
-`$cd python-flask-CRUD`
-`$python3 -m venv venv`
+    $cd python-flask-CRUD
+    $python3 -m venv venv
 
 Activate the environment
 Before you work on your project, activate the corresponding environment:
