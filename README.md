@@ -1,26 +1,26 @@
-##Name
+## Name
 React Front End built by Lindsay S. & Back End built by Rachel F. 
-##Description
+## Description
 
-##Visuals
+## Visuals
 
-##Demo
+## Demo
 
-##Installation
+## Installation
 *instructions for MacOS & Linux + Python3, NPM v. 
 
-###Fork & Clone the Repo
+### Fork & Clone the Repo
 
 `$git clone https://github.com/rachel-fischoff/python-flask-CRUD.git`
 
-#Flask
+# Flask
 Flask is a lightweight [WSGI](https://wsgi.readthedocs.io/en/latest/) web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
 Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/)
 
 `$pip install -U Flask`
 
-###Create a Virtual Enviornment 
+### Create a Virtual Enviornment 
 `$cd python-flask-CRUD`
 `$python3 -m venv venv`
 
@@ -102,14 +102,14 @@ This section has moved [here](https://facebook.github.io/create-react-app/docs/d
 
 This section has moved [here](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-##Usage
+## Usage
 
-##Support
+## Support
 
-##Roadmap
+## Roadmap
 
-##Contributing
+## Contributing
 
-##Authors and acknowledgments
+## Authors and acknowledgments
 
-##License 
+## License 
