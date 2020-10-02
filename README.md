@@ -11,23 +11,33 @@ React Front End built by Lindsay S. & Back End built by Rachel F.
 
 ### Fork & Clone the Repo
 
-`$git clone https://github.com/rachel-fischoff/python-flask-CRUD.git`
+`$ git clone https://github.com/rachel-fischoff/python-flask-CRUD.git`
 
 # Flask
 Flask is a lightweight [WSGI](https://wsgi.readthedocs.io/en/latest/) web application framework. It is designed to make getting started quick and easy, with the ability to scale up to complex applications.
 
 Install and update using [pip](https://pip.pypa.io/en/stable/quickstart/)
 
-`$pip install -U Flask`
+`$ pip install -U Flask`
 
 ### Create a Virtual Enviornment 
-    $cd python-flask-CRUD
-    $python3 -m venv venv
+    $ cd python-flask-CRUD
+    $ python3 -m venv venv
 
 Activate the environment
 Before you work on your project, activate the corresponding environment:
 
 `$ . venv/bin/activate`
+
+For Development Mode
+`$ export FLASK_ENV=development`
+
+To Run the Application
+`$ export FLASK_APP=__init__.py:app`
+ * Serving Flask app "__init__.py:app" (lazy loading)
+ * Environment: development
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000/
 
 
 ### React Boilerplate information
